@@ -1,7 +1,6 @@
-# Product Backlog for Payroll Management System
-| ID | Title               | Description                                                              | Priority   | Status       |
-|----|---------------------|--------------------------------------------------------------------------|------------|--------------|
-| 1  | Employee Registration | Implement a feature for adding employees to the payroll system         | High       | Not Started  |
-| 2  | Salary Calculation    | Develop functionality to calculate employee salaries and deductions    | High       | Not Started  |
-| 3  | Leave Management      | Create a feature to manage employee leave and leave balance tracking   | Medium     | Not Started  |
-| 4  | Salary Slip Generation| Enable generation and export of employee salary slips                  | Medium     | Not Started  |
+| ID | Title                  | Description                                                           | Priority | Status      |
+|----|------------------------|-----------------------------------------------------------------------|----------|-------------|
+| 1  | Book Borrowing         | Allow users to borrow books with due dates for returning them.        | High     | Not Started |
+| 2  | Book Return            | Implement functionality for users to return borrowed books.           | High     | Not Started |
+| 3  | Overdue Notifications  | Send notifications to users for overdue books and fines if applicable.| Medium   | Not Started |
+| 4  | Book Review and Rating | Allow users to add reviews and ratings for books they've read.        | Low      | Not Started |
